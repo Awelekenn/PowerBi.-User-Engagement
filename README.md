@@ -56,6 +56,14 @@ Used Excel to standardise dataset to get ready for visualisation in PowerBi. Als
 
 **1. How do user demographics affect engagement?**
 
+
+![Screenshot 2024-11-06 at 22 11 37](https://github.com/user-attachments/assets/2385e6f5-4990-4e45-8b93-9c78ff5698d9)
+![Screenshot 2024-11-06 at 22 07 40](https://github.com/user-attachments/assets/7884462f-7033-4d1e-a33c-b272bbe6a34f)
+![Screenshot 2024-11-06 at 22 07 31](https://github.com/user-attachments/assets/e9fe87f9-88fe-492e-b62c-2ab8c1ad0128)
+
+- The app's user distribution is nearly equal between genders, with 4,999 males and 5,001 females. Seniors (users over 66) form the largest customer base at 37%, followed by middle-aged users at 25.30%. The smallest customer group is adults aged 31-45 at 17.07%.
+- In terms of location, Phoenix, San Antonio, and San Jose have the most users of the app at 1,043, 1,024, and 1,021 users respectively. Meanwhile, Philadelphia, Los Angeles, and Dallas have the least number of users at 938, 967, and 976 users respectively.
+
 ![Screenshot 2024-11-03 at 14 42 13](https://github.com/user-attachments/assets/1b390918-94c7-4743-98ce-ccc9993ec316)
 
 - Gender: The average engagement score is nearly equal between men and women, suggesting no significant gender difference in app usage.
@@ -110,6 +118,5 @@ There's a **very** **weak positive correlation between the number of sessions an
 
 - Given that highly engaged users  have frequent, shorter sessions, it may be best to encourage this behaviour across all users. Simplifying the user interface to deliver an app that’s easy to navigate as well as showing content that can be consumed quickly can help improve retention.
 - Lower engagement is linked to both longer sessions and heavy app usage, it’s possible that users spending extended time on the app are struggling to find what they need. To address this, the company might consider adding navigation aids or a live chat feature to help users find information or features more efficiently.
-- Focus on engaging users in cities with lower engagement rates, like New York and Los Angeles, to improve retention and boost overall interaction on the app.
-- Ensure in-app features are well optimised for smartphones, laptops, and desktops. Adding desktop or laptop notifications for these users could enhance engagement and retention. Consider incentives like daily login rewards to encourage regular, quick interactions.
+- Focus on targeting users in cities with lower engagement rates, like New York and Los Angeles. Possibly adding location-specific content to increase engagement to improve retention and boost overall interaction on the app- Ensure in-app features are well optimised for smartphones, laptops, and desktops. Adding desktop or laptop notifications for these users could enhance engagement and retention. Consider incentives like daily login rewards to encourage regular, quick interactions.
 - Since there is a mid-year dip in logins, the company could focus on re-engaging users around this time with push notifications and other timely reminders via email.
